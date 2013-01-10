@@ -1,0 +1,12 @@
+name: traffic_lights_out
+version: 0.0.1
+author: Andrei Mouravski <amouravski@gmail.com>
+description: A sample application
+homepage: https://github.com/amouravski/traffic_lights_out
+dependencies:
+  one_hour_game_jam: any
+  web_ui: any
+
+#dependencies:
+#  js: any
+#  unittest: any
