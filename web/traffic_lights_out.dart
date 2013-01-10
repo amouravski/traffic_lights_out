@@ -1,11 +1,17 @@
 import 'package:traffic_lights_out/traffic_lights_out.dart';
 import 'package:one_hour_game_jam/one_hour_game_jam.dart';
 
+var game1 = ['100',
+             '002',
+             '112'];
+
+var game2 = ['1003',
+             '0023',
+             '1123',
+             '0000'];
 
 main() {
-  var myGame = ['102',
-                '002',
-                '112'];
+  var myGame = game1;
   lightGrid = _createLightGrid(myGame);
 }
 
